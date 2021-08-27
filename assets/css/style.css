@@ -10313,13 +10313,14 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header .picture {
-  width: 220px;
+  padding:10px;
 }
 
 .resume-header .name {
   font-size: 2.25rem;
   letter-spacing: 0.175rem;
   font-weight: 900;
+  font-variant-caps: small-caps;
 }
 
 .resume-header .title {
@@ -10414,6 +10415,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-position-title {
   font-size: 1.125rem;
   color: #434E5E;
+  font-variant-caps: small-caps;
 }
 
 .resume-timeline-item-desc-heading {
